@@ -16,7 +16,7 @@ npm i && npm start
 
 ## Maintainers
 
-- [jeremyphilemon](https://github.com/jeremyphilemon)
+- [Sukant Jha](https://github.com/itssukant)
 
 ## Contribution
 
